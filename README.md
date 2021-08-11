@@ -1,1 +1,1 @@
-# Malaria Cell Classification Aplication using streamlit
+# Malaria Cell Classification Aplication Using Streamlit
