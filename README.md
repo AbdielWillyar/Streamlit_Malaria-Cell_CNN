@@ -1,1 +1,1 @@
-# Python aplication using streamlit
+# Malaria Cell Classification Aplication using streamlit
